@@ -17,6 +17,8 @@ be removed from this repository.
   [Pull request](https://github.com/andrewgregory/pacutils/pull/55)
 * [lm_sensors](https://github.com/lm-sensors/lm-sensors):
   [Pull request](https://github.com/lm-sensors/lm-sensors/pull/404)
+* [tlp](https://github.com/linrunner/TLP):
+  [Pull request](https://github.com/linrunner/TLP/pull/637) (merged, no release yet)
 
 ## Installation
 
