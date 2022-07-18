@@ -1,8 +1,8 @@
 # Vorpal ZSH completions
 
-Some ZSH completions I wrote and where the upstream project appears dead. All
-of these have been submitted to the respective upstream project but nothing has
-happened.
+Some ZSH completions I wrote and where the upstream project appears dead or
+slow to release. All of these have been submitted to the respective upstream
+project but nothing has happened.
 
 When/if completions are merged upstream and a new release is made, the files will
 be removed from this repository.
