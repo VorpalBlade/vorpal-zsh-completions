@@ -15,6 +15,8 @@ be removed from this repository.
   [Pull request](https://github.com/Askannz/optimus-manager/pull/493)
 * [pacutils](https://github.com/andrewgregory/pacutils):
   [Pull request](https://github.com/andrewgregory/pacutils/pull/55)
+* [lm_sensors](https://github.com/lm-sensors/lm-sensors):
+  [Pull request](https://github.com/lm-sensors/lm-sensors/pull/404)
 
 ## Installation
 
